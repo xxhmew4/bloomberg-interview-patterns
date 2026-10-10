@@ -1,0 +1,1 @@
+# bloomberg-interview-patterns
